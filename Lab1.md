@@ -26,3 +26,6 @@ After Logging in, you should be on this screen:
 ![image](AccountLookup.png)
 
 ### Click the area with the red circle that says cs15lsp23xx (the xx is whatever your two last numbers or letters are)
+
+Once you click that, press the Global Password Change Tool to change your password, as your password has not been set just yet
+![Image](GPCT.png)
