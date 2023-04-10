@@ -22,3 +22,7 @@ given
 To access the school account that we need we need for the remote login we need to go to this [Site](https://sdacs.ucsd.edu/-icc/indet.php). You need to use your normal AD username and password to be able to access the CSE 15L account.
 
 After Logging in, you should be on this screen:
+
+![image](AccountLookup.png)
+
+### Click the area with the red circle that says cs15lsp23xx (the xx is whatever your two last numbers or letters are)
