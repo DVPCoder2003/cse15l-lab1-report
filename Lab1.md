@@ -12,5 +12,13 @@ one if you are on Windows or MacOS respectively.
 2. Once you press the download button and it is finished updating, click on the download and begin to set up vs code using the directions
 given
 3. After doing all the steps required in downloading VS Code, your interface should look something like this:
-[Image]
 
+![Image](VSCode.png)
+
+4. Make sure to have VS Code open for the next portion!
+---
+
+## 2. Remotely Connecting
+To access the school account that we need we need for the remote login we need to go to this [Site](https://sdacs.ucsd.edu/-icc/indet.php). You need to use your normal AD username and password to be able to access the CSE 15L account.
+
+After Logging in, you should be on this screen:
