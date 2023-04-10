@@ -11,4 +11,6 @@ Steps:
 one if you are on Windows or MacOS respectively.
 2. Once you press the download button and it is finished updating, click on the download and begin to set up vs code using the directions
 given
-3.
+3. After doing all the steps required in downloading VS Code, your interface should look something like this:
+[Image]
+
