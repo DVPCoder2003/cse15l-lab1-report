@@ -9,7 +9,7 @@ good to learn.
 Steps:
 1. Use this [Link](https://code.visualstudio.com/) to be able to download VS Code onto your computer. Make sure to download the right
 one if you are on Windows or MacOS respectively.
-2. Once you press the download button and it is finished updating, click on the download and begin to set up vs code using the directions
+2. Once you press the download button and it finishes downloading, click on the download and begin to set up VS Code using the directions
 given
 3. After doing all the steps required in downloading VS Code, your interface should look something like this:
 
@@ -47,4 +47,11 @@ After this, we are able to move towards VS Code :
 ---
 Now lets try some commands
 
-O
+The first one is ls, which shows the list of contents of the current working directory, whihc is the root location of your current java project.
+
+![Image](LS.png)
+
+
+Another one is ls -a, which shows all of the files in the directory (even the hidden ones), and all of them start with "."
+
+![Image](LSA.png)
