@@ -42,6 +42,6 @@ After this, we are able to move towards VS Code :
 - After that, it will tell you to input your password. You won't be able to see it for security reasons so make sure to put it in carefully
 - PS. There could possibly be some issues when first doing it so make sure to ask for help if needed and refer back to the Professors work on how to do it as well.
 
-## Right now, I am not able to have it work, so I will show an example of both a previous login and a current login
--Previous: 
+## Right now, It should look like this if you login successfully:
+![Image](Login.png)
 -
