@@ -29,3 +29,19 @@ After Logging in, you should be on this screen:
 
 Once you click that, press the Global Password Change Tool to change your password, as your password has not been set just yet
 ![Image](GPCT.png)
+### From there, follow the steps that they take you through and make sure to input the cse15L account that you clicked on before as your username. If you need additional help refer to the [Tutorial](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) given by the professor
+
+---
+## Now we can get onto the next step and trying some commands using the CSE 15L Account and VS Code!
+
+For this portion you need to install the right version of git. For macOS this is mostly not needed but for Windows users you will have to go to this [website](https://git-scm.com/download/win)
+
+After this, we are able to move towards VS Code :
+- Go to your terminal and select Git Bash instead of the normal terminal
+- Once the dollar sign shows up, you should input ssh (which is Secure Shell) and then input your CSE15l username and then @ieng6.ucsd.edu. 
+- After that, it will tell you to input your password. You won't be able to see it for security reasons so make sure to put it in carefully
+- PS. There could possibly be some issues when first doing it so make sure to ask for help if needed and refer back to the Professors work on how to do it as well.
+
+## Right now, I am not able to have it work, so I will show an example of both a previous login and a current login
+-Previous: 
+-
