@@ -44,4 +44,7 @@ After this, we are able to move towards VS Code :
 
 ## Right now, It should look like this if you login successfully:
 ![Image](Login.png)
--
+---
+Now lets try some commands
+
+O
