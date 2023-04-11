@@ -55,3 +55,6 @@ The first one is ls, which shows the list of contents of the current working dir
 Another one is ls -a, which shows all of the files in the directory (even the hidden ones), and all of them start with "."
 
 ![Image](LSA.png)
+
+
+# Thank you so much for taking the time to go through this!!
